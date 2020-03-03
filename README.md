@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://github.com/LeomarisReyes/TravelAppSample/blob/master/Images/TravelMainImg.png" height="540" width="720"/>
+<img src="https://github.com/LeomarisReyes/TravelAppSample/blob/master/Images/TravelMainImg.png" height="540" width="700"/>
 </p>
 
 <p>UI replicated in Xamarin Forms. For more information about, you can enter to my blog https://askxammy.com </p>
